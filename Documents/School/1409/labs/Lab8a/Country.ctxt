@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Country()
+comment1.params=
+comment1.target=void\ displayAllStates()
+comment1.text=\n\ prints\ the\ details\ for\ all\ the\ state(s)/province(s)\ associated\ with\ the\ country\n
+comment2.params=stateProvince
+comment2.target=void\ addStateProvince(StateProvince)
+comment2.text=\n\ @param\ stateProvince\ -\ a\ state\ or\ provience\ to\ add\ to\ the\ stateProvience\ ArrayList\n
+comment3.params=min\ max
+comment3.target=int\ howManyHaveThisPopulation(int,\ int)
+comment3.text=\n\ @param\ min\ -\ an\ int\ representing\ the\ minimum\ population\ in\ million\ for\ the\ query\n\ @param\ max\ -\ an\ int\ representing\ the\ maximum\ population\ in\ million\ for\ the\ query\n\ return\ -\ the\ number\ of\ state(s)/province(s)\n
+numComments=4

@@ -1,0 +1,44 @@
+Class documentation
+<---- javadoc command: ---->
+/Users/jasonmarshall/Applications/BlueJ 3.1.1/BlueJ.app/Contents/Frameworks/jdk.framework/Versions/A/Contents/Home/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.7
+-classpath
+/Users/jasonmarshall/Applications/BlueJ 3.1.1/BlueJ.app/Contents/Resources/Java/bluejcore.jar:/Users/jasonmarshall/Applications/BlueJ 3.1.1/BlueJ.app/Contents/Resources/Java/junit-4.8.2.jar:/Users/jasonmarshall/Documents/School/1409/Lesson 3 Lab
+-d
+/Users/jasonmarshall/Documents/School/1409/Lesson 3 Lab/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+/Users/jasonmarshall/Applications/BlueJ 3.1.1/BlueJ.app/Contents/Resources/Java/bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+/Users/jasonmarshall/Documents/School/1409/Lesson 3 Lab/Book.java
+<---- end of javadoc command ---->
+Loading source file /Users/jasonmarshall/Documents/School/1409/Lesson 3 Lab/Book.java...
+Constructing Javadoc information...
+Standard Doclet version 1.7.0_45
+Building tree for all the packages and classes...
+Generating /Users/jasonmarshall/Documents/School/1409/Lesson 3 Lab/doc/Book.html...
+/Users/jasonmarshall/Documents/School/1409/Lesson 3 Lab/Book.java:7: warning - @auther is an unknown tag.
+/Users/jasonmarshall/Documents/School/1409/Lesson 3 Lab/Book.java:7: warning - @auther is an unknown tag.
+Generating /Users/jasonmarshall/Documents/School/1409/Lesson 3 Lab/doc/package-frame.html...
+Generating /Users/jasonmarshall/Documents/School/1409/Lesson 3 Lab/doc/package-summary.html...
+Generating /Users/jasonmarshall/Documents/School/1409/Lesson 3 Lab/doc/constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating /Users/jasonmarshall/Documents/School/1409/Lesson 3 Lab/doc/allclasses-frame.html...
+Generating /Users/jasonmarshall/Documents/School/1409/Lesson 3 Lab/doc/allclasses-noframe.html...
+Generating /Users/jasonmarshall/Documents/School/1409/Lesson 3 Lab/doc/index.html...
+Generating /Users/jasonmarshall/Documents/School/1409/Lesson 3 Lab/doc/stylesheet.css...
+2 warnings

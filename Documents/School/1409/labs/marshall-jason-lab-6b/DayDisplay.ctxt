@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DayDisplay()
+comment0.text=\n\ default\ constructor\n
+comment1.params=dayOfWeek
+comment1.target=DayDisplay(int)
+comment1.text=\n\ another\ constructor\n\ @param\ dayOfWeek\ -\ day\ of\ the\ week\n
+comment2.params=dayName
+comment2.target=DayDisplay(java.lang.String)
+comment2.text=\n\ yet\ another\ constructor\n
+comment3.params=day
+comment3.target=DayDisplay(NumberDisplay)
+comment3.text=\n\ yet\ again\ another\ constructor\n
+comment4.params=
+comment4.target=java.lang.String\ getDayOFTheWeek()
+comment4.text=\n\ @return\ the\ name\ of\ the\ day\n
+comment5.params=
+comment5.target=void\ incrementDay()
+comment5.text=\n\ \n
+comment6.params=
+comment6.target=java.lang.String\ getWhatDayIsTomorrow()
+comment6.text=\n\ @return\ the\ name\ of\ the\ following\ day\n
+comment7.params=
+comment7.target=void\ printDetails()
+comment7.text=\n\ prints\ the\ day's\ info\n
+numComments=8

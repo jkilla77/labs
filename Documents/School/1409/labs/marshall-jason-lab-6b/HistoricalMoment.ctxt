@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=HistoricalMoment()
+comment0.text=\n\ default\ constructor\n
+comment1.params=nameOfTheEvent
+comment1.target=HistoricalMoment(java.lang.String)
+comment1.text=\n\ Another\ constructor\n\ @param\ nameOfTheEveny\ -\ the\ name\ of\ the\ historical\ event\n
+comment2.params=nameOfTheEvent\ theTime
+comment2.target=HistoricalMoment(java.lang.String,\ ClockDisplay)
+comment2.text=\n\ Yet\ another\ constructor\n\ @param\ nameOfTheEvent\ -\ the\ name\ of\ the\ event\n\ @param\ theTime\ \ \ \ \ \ \ \ -\ an\ object\ containing\ the\ time\ the\ event\ occured.\n
+comment3.params=
+comment3.target=void\ addMinuteToTimeOfEvent()
+comment3.text=\n\ increments\ the\ time\ by\ a\ minute\n
+comment4.params=
+comment4.target=void\ printDetails()
+comment4.text=\n\ prints\ the\ event\ details\n
+numComments=5
